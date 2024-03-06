@@ -1,5 +1,5 @@
 """
-SignIntelchainor Ethereum transactions
+Sign Intelchain or Ethereum transactions
 intelchain staking transaction signing is not covered by this module
 """
 
